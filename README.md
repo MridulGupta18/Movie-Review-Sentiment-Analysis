@@ -9,4 +9,6 @@ The project is structured as follows:
 - `README.md`: This file providing an overview of the project.
 
 ## Installation
-1. Clone the repository:
+1. Clone the repository: https://github.com/MridulGupta18/Movie-Review-Sentiment-Analysis.git
+2. Install dependencies: pip install -r requirements.txt
+
