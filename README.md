@@ -6,7 +6,6 @@ This project performs sentiment analysis on IMDb movie reviews using natural lan
 The project is structured as follows:
 - `data/`: Contains the IMDb movie reviews dataset.
 - `scripts/`: Contains Python scripts for data preprocessing, model training, evaluation, and prediction.
-- `models/`: Contains trained machine learning models.
 - `README.md`: This file providing an overview of the project.
 
 ## Installation
